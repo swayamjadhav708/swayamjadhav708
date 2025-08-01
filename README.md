@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🔭 Currently working on interesting projects in [your main tech stack or field, e.g., web development, data science, etc.]
 - 🌱 Continuously learning and improving my skills in [mention technologies or areas you are learning]
 - 💬 Ask me about anything related to programming, tech, or open-source
-- 📫 How to reach me:swayamjadhav111@gnail.com
+- 📫 How to reach me:swayamjadhav111@gmail.com
 - ⚡ Fun fact: [something interesting about you]
 
 ## Skills
